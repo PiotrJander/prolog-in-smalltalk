@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"fst:snd:" : "PiotrJander 6/18/2017 14:11",
+		"make" : "PiotrJander 6/18/2017 14:10" },
+	"instance" : {
+		"car" : "PiotrJander 6/18/2017 14:13",
+		"car:" : "PiotrJander 6/18/2017 14:13",
+		"cdr" : "PiotrJander 6/18/2017 14:13",
+		"cdr:" : "PiotrJander 6/18/2017 14:14",
+		"fst:snd:" : "PiotrJander 6/18/2017 14:11",
+		"occurs:" : "PiotrJander 6/18/2017 20:14",
+		"reset" : "PiotrJander 6/18/2017 22:26",
+		"reset__" : "PiotrJander 6/19/2017 16:25",
+		"unify:" : "PiotrJander 6/19/2017 16:04",
+		"value" : "PiotrJander 6/18/2017 18:09" } }

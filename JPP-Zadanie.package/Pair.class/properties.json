@@ -1,0 +1,15 @@
+{
+	"category" : "JPP-Zadanie",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fst",
+		"snd" ],
+	"name" : "Pair",
+	"pools" : [
+		 ],
+	"super" : "Term",
+	"type" : "normal" }

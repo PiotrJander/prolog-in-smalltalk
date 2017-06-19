@@ -1,0 +1,14 @@
+{
+	"category" : "JPP-Zadanie",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variableDict" ],
+	"name" : "VarFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
