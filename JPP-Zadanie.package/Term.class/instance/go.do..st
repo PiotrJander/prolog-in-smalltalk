@@ -1,5 +1,5 @@
 as yet unclassified
 go: t do: action
-	Var reset.
+	V save.
 	(self unify: t) ifTrue: [ action value ].
-	Var reset.
+	V restore.

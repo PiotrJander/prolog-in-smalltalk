@@ -3,4 +3,7 @@
 		 },
 	"instance" : {
 		"@" : "PiotrJander 6/18/2017 14:55",
-		"initialize" : "PiotrJander 6/18/2017 14:54" } }
+		"initialize" : "",
+		"reset" : "PiotrJander 6/19/2017 21:51",
+		"restore" : "PiotrJander 6/19/2017 21:18",
+		"save" : "PiotrJander 6/19/2017 21:18" } }

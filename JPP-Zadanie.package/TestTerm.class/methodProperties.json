@@ -3,12 +3,19 @@
 		 },
 	"instance" : {
 		"getResult:" : "PiotrJander 6/19/2017 16:47",
-		"ok" : "PiotrJander 6/19/2017 16:47",
+		"ok" : "",
 		"testC" : "PiotrJander 6/18/2017 15:03",
+		"testGoDo1" : "PiotrJander 6/19/2017 19:35",
+		"testGoDo2" : "PiotrJander 6/19/2017 19:35",
+		"testGoDo3" : "PiotrJander 6/19/2017 21:56",
+		"testGoDo4" : "PiotrJander 6/19/2017 21:56",
+		"testGoDo5" : "PiotrJander 6/19/2017 21:56",
+		"testGoDo6" : "PiotrJander 6/19/2017 21:56",
+		"testGoDo7" : "PiotrJander 6/19/2017 21:43",
 		"testOccursCheck" : "PiotrJander 6/18/2017 22:36",
 		"testPair" : "PiotrJander 6/18/2017 14:17",
 		"testShortcuts" : "PiotrJander 6/18/2017 18:16",
-		"testSth" : "PiotrJander 6/18/2017 18:42",
+		"testSth" : "",
 		"testUnify" : "PiotrJander 6/19/2017 17:16",
 		"testV" : "PiotrJander 6/18/2017 15:05",
-		"testVal" : "PiotrJander 6/18/2017 22:24" } }
+		"testVal" : "PiotrJander 6/19/2017 21:55" } }

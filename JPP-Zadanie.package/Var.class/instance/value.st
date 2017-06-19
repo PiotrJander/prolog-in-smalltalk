@@ -1,5 +1,5 @@
 as yet unclassified
 value
-	val 
-		"ifNil: [ Error signal: 'bad var' ] 
-		ifNotNil: [ val ]"
+	^ val 
+		ifNil: [ Error signal: 'bad var' ] 
+		ifNotNil: [ val value ]
