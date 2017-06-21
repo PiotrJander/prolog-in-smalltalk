@@ -1,0 +1,15 @@
+{
+	"category" : "JPP-Zadanie",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"facts",
+		"rules" ],
+	"name" : "Prolog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

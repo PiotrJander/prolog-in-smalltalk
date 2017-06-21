@@ -1,0 +1,14 @@
+{
+	"category" : "JPP-Zadanie",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"goals" ],
+	"name" : "GoalSet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

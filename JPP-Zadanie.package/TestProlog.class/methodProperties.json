@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assert:" : "PiotrJander 6/20/2017 15:24",
+		"getResult:" : "PiotrJander 6/20/2017 14:45",
+		"initialize" : "PiotrJander 6/20/2017 14:52",
+		"ok" : "PiotrJander 6/20/2017 14:45",
+		"testFactsSingle" : "PiotrJander 6/20/2017 14:54",
+		"testGoDoGoalSet" : "PiotrJander 6/20/2017 15:14",
+		"testGoDoGoalSet2" : "PiotrJander 6/20/2017 15:19",
+		"testGoDoGoalSet3" : "PiotrJander 6/20/2017 15:19",
+		"testGoalSet" : "PiotrJander 6/20/2017 15:09",
+		"testProlog1" : "PiotrJander 6/20/2017 15:22" } }
